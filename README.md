@@ -1,5 +1,4 @@
 ### About me > https://suzuhiki.github.io/
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzuhiki&layout=compact)
 
 
 
