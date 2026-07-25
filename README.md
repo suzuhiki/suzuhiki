@@ -1,4 +1,4 @@
-### About me > https://suzuhiki.github.io/
+### About me > https://suzuhiki-portfolio.pages.dev/
 
 
 
